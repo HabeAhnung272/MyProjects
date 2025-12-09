@@ -1,0 +1,688 @@
+[
+  {
+    "name": "Albania",
+    "camount": 0,
+    "cget": 0,
+    "gscore": 0,
+    "durschnitt": 0
+  },
+  {
+    "name": "Andorra",
+    "camount": 0,
+    "cget": 0,
+    "gscore": 0,
+    "durschnitt": 0
+  },
+  {
+    "name": "Argentinia",
+    "camount": 0,
+    "cget": 0,
+    "gscore": 0,
+    "durschnitt": 0
+  },
+  {
+    "name": "Australia",
+    "camount": 0,
+    "cget": 0,
+    "gscore": 0,
+    "durschnitt": 0
+  },
+  {
+    "name": "Austria",
+    "camount": 0,
+    "cget": 0,
+    "gscore": 0,
+    "durschnitt": 0
+  },
+  {
+    "name": "Bangladesch",
+    "camount": 0,
+    "cget": 0,
+    "gscore": 0,
+    "durschnitt": 0
+  },
+  {
+    "name": "Belgium",
+    "camount": 0,
+    "cget": 0,
+    "gscore": 0,
+    "durschnitt": 0
+  },
+  {
+    "name": "Bhutan",
+    "camount": 0,
+    "cget": 0,
+    "gscore": 0,
+    "durschnitt": 0
+  },
+  {
+    "name": "Brasil",
+    "camount": 0,
+    "cget": 0,
+    "gscore": 0,
+    "durschnitt": 0
+  },
+  {
+    "name": "Bolivia",
+    "camount": 0,
+    "cget": 0,
+    "gscore": 0,
+    "durschnitt": 0
+  },
+  {
+    "name": "Botswana",
+    "camount": 0,
+    "cget": 0,
+    "gscore": 0,
+    "durschnitt": 0
+  },
+  {
+    "name": "Bosnia",
+    "camount": 0,
+    "cget": 0,
+    "gscore": 0,
+    "durschnitt": 0
+  },
+  {
+    "name": "Bulgaria",
+    "camount": 0,
+    "cget": 0,
+    "gscore": 0,
+    "durschnitt": 0
+  },
+  {
+    "name": "Canada",
+    "camount": 0,
+    "cget": 0,
+    "gscore": 0,
+    "durschnitt": 0
+  },
+  {
+    "name": "Colombia",
+    "camount": 0,
+    "cget": 0,
+    "gscore": 0,
+    "durschnitt": 0
+  },
+  {
+    "name": "Cambodia",
+    "camount": 0,
+    "cget": 0,
+    "gscore": 0,
+    "durschnitt": 0
+  },
+  {
+    "name": "Chile",
+    "camount": 0,
+    "cget": 0,
+    "gscore": 0,
+    "durschnitt": 0
+  },
+  {
+    "name": "Curacau",
+    "camount": 0,
+    "cget": 0,
+    "gscore": 0,
+    "durschnitt": 0
+  },
+  {
+    "name": "Croatia",
+    "camount": 0,
+    "cget": 0,
+    "gscore": 0,
+    "durschnitt": 0
+  },
+  {
+    "name": "Costa_Rica",
+    "camount": 0,
+    "cget": 0,
+    "gscore": 0,
+    "durschnitt": 0
+  },
+  {
+    "name": "Cyprus",
+    "camount": 0,
+    "cget": 0,
+    "gscore": 0,
+    "durschnitt": 0
+  },
+  {
+    "name": "Czechia",
+    "camount": 0,
+    "cget": 0,
+    "gscore": 0,
+    "durschnitt": 0
+  },
+  {
+    "name": "Denmark",
+    "camount": 0,
+    "cget": 0,
+    "gscore": 0,
+    "durschnitt": 0
+  },
+  {
+    "name": "Domenica",
+    "camount": 0,
+    "cget": 0,
+    "gscore": 0,
+    "durschnitt": 0
+  },
+  {
+    "name": "Estland",
+    "camount": 0,
+    "cget": 0,
+    "gscore": 0,
+    "durschnitt": 0
+  },
+  {
+    "name": "Eswatini",
+    "camount": 0,
+    "cget": 0,
+    "gscore": 0,
+    "durschnitt": 0
+  },
+  {
+    "name": "France",
+    "camount": 0,
+    "cget": 0,
+    "gscore": 0,
+    "durschnitt": 0
+  },
+  {
+    "name": "Finnland",
+    "camount": 0,
+    "cget": 0,
+    "gscore": 0,
+    "durschnitt": 0
+  },
+  {
+    "name": "Germany",
+    "camount": 0,
+    "cget": 0,
+    "gscore": 0,
+    "durschnitt": 0
+  },
+  {
+    "name": "Ghana",
+    "camount": 0,
+    "cget": 0,
+    "gscore": 0,
+    "durschnitt": 0
+  },
+  {
+    "name": "Greenland",
+    "camount": 0,
+    "cget": 0,
+    "gscore": 0,
+    "durschnitt": 0
+  },
+  {
+    "name": "Greek",
+    "camount": 0,
+    "cget": 0,
+    "gscore": 0,
+    "durschnitt": 0
+  },
+  {
+    "name": "Guatamala",
+    "camount": 0,
+    "cget": 0,
+    "gscore": 0,
+    "durschnitt": 0
+  },
+  {
+    "name": "Hungary",
+    "camount": 0,
+    "cget": 0,
+    "gscore": 0,
+    "durschnitt": 0
+  },
+  {
+    "name": "Hong_Kong",
+    "camount": 0,
+    "cget": 0,
+    "gscore": 0,
+    "durschnitt": 0
+  },
+  {
+    "name": "India",
+    "camount": 0,
+    "cget": 0,
+    "gscore": 0,
+    "durschnitt": 0
+  },
+  {
+    "name": "Indonesia",
+    "camount": 0,
+    "cget": 0,
+    "gscore": 0,
+    "durschnitt": 0
+  },
+  {
+    "name": "Italy",
+    "camount": 0,
+    "cget": 0,
+    "gscore": 0,
+    "durschnitt": 0
+  },
+  {
+    "name": "Ireland",
+    "camount": 0,
+    "cget": 0,
+    "gscore": 0,
+    "durschnitt": 0
+  },
+  {
+    "name": "Island",
+    "camount": 0,
+    "cget": 0,
+    "gscore": 0,
+    "durschnitt": 0
+  },
+  {
+    "name": "Israel",
+    "camount": 0,
+    "cget": 0,
+    "gscore": 0,
+    "durschnitt": 0
+  },
+  {
+    "name": "Japan",
+    "camount": 0,
+    "cget": 0,
+    "gscore": 0,
+    "durschnitt": 0
+  },
+  {
+    "name": "Jordan",
+    "camount": 0,
+    "cget": 0,
+    "gscore": 0,
+    "durschnitt": 0
+  },
+  {
+    "name": "Jersey",
+    "camount": 0,
+    "cget": 0,
+    "gscore": 0,
+    "durschnitt": 0
+  },
+  {
+    "name": "Kazakhstan",
+    "camount": 0,
+    "cget": 0,
+    "gscore": 0,
+    "durschnitt": 0
+  },
+  {
+    "name": "Kenia",
+    "camount": 0,
+    "cget": 0,
+    "gscore": 0,
+    "durschnitt": 0
+  },
+  {
+    "name": "Kyrgistan",
+    "camount": 0,
+    "cget": 0,
+    "gscore": 0,
+    "durschnitt": 0
+  },
+  {
+    "name": "Latvia",
+    "camount": 0,
+    "cget": 0,
+    "gscore": 0,
+    "durschnitt": 0
+  },
+  {
+    "name": "Lesotho",
+    "camount": 0,
+    "cget": 0,
+    "gscore": 0,
+    "durschnitt": 0
+  },
+  {
+    "name": "Libanon",
+    "camount": 0,
+    "cget": 0,
+    "gscore": 0,
+    "durschnitt": 0
+  },
+  {
+    "name": "Lithuania",
+    "camount": 0,
+    "cget": 0,
+    "gscore": 0,
+    "durschnitt": 0
+  },
+  {
+    "name": "Luxembourg",
+    "camount": 0,
+    "cget": 0,
+    "gscore": 0,
+    "durschnitt": 0
+  },
+  {
+    "name": "Macau",
+    "camount": 0,
+    "cget": 0,
+    "gscore": 0,
+    "durschnitt": 0
+  },
+  {
+    "name": "Malaysia",
+    "camount": 0,
+    "cget": 0,
+    "gscore": 0,
+    "durschnitt": 0
+  },
+  {
+    "name": "Malta",
+    "camount": 0,
+    "cget": 0,
+    "gscore": 0,
+    "durschnitt": 0
+  },
+  {
+    "name": "Mexico",
+    "camount": 0,
+    "cget": 0,
+    "gscore": 0,
+    "durschnitt": 0
+  },
+  {
+    "name": "Montenegro",
+    "camount": 0,
+    "cget": 0,
+    "gscore": 0,
+    "durschnitt": 0
+  },
+  {
+    "name": "Monaco",
+    "camount": 0,
+    "cget": 0,
+    "gscore": 0,
+    "durschnitt": 0
+  },
+  {
+    "name": "Namibia",
+    "camount": 0,
+    "cget": 0,
+    "gscore": 0,
+    "durschnitt": 0
+  },
+  {
+    "name": "Netherlands",
+    "camount": 0,
+    "cget": 0,
+    "gscore": 0,
+    "durschnitt": 0
+  },
+  {
+    "name": "New_Zealand",
+    "camount": 0,
+    "cget": 0,
+    "gscore": 0,
+    "durschnitt": 0
+  },
+  {
+    "name": "Nepal",
+    "camount": 0,
+    "cget": 0,
+    "gscore": 0,
+    "durschnitt": 0
+  },
+  {
+    "name": "Nigiria",
+    "camount": 0,
+    "cget": 0,
+    "gscore": 0,
+    "durschnitt": 0
+  },
+  {
+    "name": "Norway",
+    "camount": 0,
+    "cget": 0,
+    "gscore": 0,
+    "durschnitt": 0
+  },
+  {
+    "name": "North_Macedonia",
+    "camount": 0,
+    "cget": 0,
+    "gscore": 0,
+    "durschnitt": 0
+  },
+  {
+    "name": "Oman",
+    "camount": 0,
+    "cget": 0,
+    "gscore": 0,
+    "durschnitt": 0
+  },
+  {
+    "name": "Panama",
+    "camount": 0,
+    "cget": 0,
+    "gscore": 0,
+    "durschnitt": 0
+  },
+  {
+    "name": "Paraguay",
+    "camount": 0,
+    "cget": 0,
+    "gscore": 0,
+    "durschnitt": 0
+  },
+  {
+    "name": "Peru",
+    "camount": 0,
+    "cget": 0,
+    "gscore": 0,
+    "durschnitt": 0
+  },
+  {
+    "name": "Phillipines",
+    "camount": 0,
+    "cget": 0,
+    "gscore": 0,
+    "durschnitt": 0
+  },
+  {
+    "name": "Puerto_Rico",
+    "camount": 0,
+    "cget": 0,
+    "gscore": 0,
+    "durschnitt": 0
+  },
+  {
+    "name": "Poland",
+    "camount": 0,
+    "cget": 0,
+    "gscore": 0,
+    "durschnitt": 0
+  },
+  {
+    "name": "Portugal",
+    "camount": 0,
+    "cget": 0,
+    "gscore": 0,
+    "durschnitt": 0
+  },
+  {
+    "name": "Qatar",
+    "camount": 0,
+    "cget": 0,
+    "gscore": 0,
+    "durschnitt": 0
+  },
+  {
+    "name": "Russia",
+    "camount": 0,
+    "cget": 0,
+    "gscore": 0,
+    "durschnitt": 0
+  },
+  {
+    "name": "Ruanda",
+    "camount": 0,
+    "cget": 0,
+    "gscore": 0,
+    "durschnitt": 0
+  },
+  {
+    "name": "Romania",
+    "camount": 0,
+    "cget": 0,
+    "gscore": 0,
+    "durschnitt": 0
+  },
+  {
+    "name": "Sweden",
+    "camount": 0,
+    "cget": 0,
+    "gscore": 0,
+    "durschnitt": 0
+  },
+  {
+    "name": "Senegal",
+    "camount": 0,
+    "cget": 0,
+    "gscore": 0,
+    "durschnitt": 0
+  },
+  {
+    "name": "Serbia",
+    "camount": 0,
+    "cget": 0,
+    "gscore": 0,
+    "durschnitt": 0
+  },
+  {
+    "name": "Slovakia",
+    "camount": 0,
+    "cget": 0,
+    "gscore": 0,
+    "durschnitt": 0
+  },
+  {
+    "name": "Slovenia",
+    "camount": 0,
+    "cget": 0,
+    "gscore": 0,
+    "durschnitt": 0
+  },
+  {
+    "name": "South_Africa",
+    "camount": 0,
+    "cget": 0,
+    "gscore": 0,
+    "durschnitt": 0
+  },
+  {
+    "name": "South_Korea",
+    "camount": 0,
+    "cget": 0,
+    "gscore": 0,
+    "durschnitt": 0
+  },
+  {
+    "name": "Spain",
+    "camount": 0,
+    "cget": 0,
+    "gscore": 0,
+    "durschnitt": 0
+  },
+  {
+    "name": "Sri_Lanka",
+    "camount": 0,
+    "cget": 0,
+    "gscore": 0,
+    "durschnitt": 0
+  },
+  {
+    "name": "Swizerland",
+    "camount": 0,
+    "cget": 0,
+    "gscore": 0,
+    "durschnitt": 0
+  },
+  {
+    "name": "Taiwan",
+    "camount": 0,
+    "cget": 0,
+    "gscore": 0,
+    "durschnitt": 0
+  },
+  {
+    "name": "Thailand",
+    "camount": 0,
+    "cget": 0,
+    "gscore": 0,
+    "durschnitt": 0
+  },
+  {
+    "name": "Tunisia",
+    "camount": 0,
+    "cget": 0,
+    "gscore": 0,
+    "durschnitt": 0
+  },
+  {
+    "name": "Türkiye",
+    "camount": 0,
+    "cget": 0,
+    "gscore": 0,
+    "durschnitt": 0
+  },
+  {
+    "name": "UAE",
+    "camount": 0,
+    "cget": 0,
+    "gscore": 0,
+    "durschnitt": 0
+  },
+  {
+    "name": "Uganda",
+    "camount": 0,
+    "cget": 0,
+    "gscore": 0,
+    "durschnitt": 0
+  },
+  {
+    "name": "Ukraine",
+    "camount": 0,
+    "cget": 0,
+    "gscore": 0,
+    "durschnitt": 0
+  },
+  {
+    "name": "United_Kingdom",
+    "camount": 0,
+    "cget": 0,
+    "gscore": 0,
+    "durschnitt": 0
+  },
+  {
+    "name": "Uruquay",
+    "camount": 0,
+    "cget": 0,
+    "gscore": 0,
+    "durschnitt": 0
+  },
+  {
+    "name": "USA",
+    "camount": 0,
+    "cget": 0,
+    "gscore": 0,
+    "durschnitt": 0
+  },
+  {
+    "name": "Vietnam",
+    "camount": 0,
+    "cget": 0,
+    "gscore": 0,
+    "durschnitt": 0
+  }
+]

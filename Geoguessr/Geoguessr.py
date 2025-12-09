@@ -1,3 +1,44 @@
+import json
+import os
+def reset():
+   for c in CountryList:
+      c.cget = 0
+      c.durschnitt = 0 
+      c.camount = 0 
+      c.gscore = 0
+   main()
+def Speichern():
+
+ if os.path.exists("countries.json"):
+   print("Die Datei existiert bereits und wird überschrieben.")
+
+   with open("countries.json", "w", encoding="utf-8") as f:
+    json.dump(
+        [{"name": c.country, "camount": c.camount, "cget": c.cget, "gscore": c.gscore, "durschnitt": c.durschnitt } for c in CountryList],
+        f,
+        ensure_ascii=False,
+        indent=2
+    )
+ else:     
+    with open("countries.json", "w", encoding="utf-8") as f:
+    # Wir speichern nur die relevanten Daten für JSON
+      json.dump(
+        [{"name": c.country, "camount": c.camount, "cget": c.cget, "gscore": c.gscore, "durschnitt": c.durschnitt} for c in CountryList],
+        f,
+        ensure_ascii=False,
+        indent=2
+    )
+    print("countries.json wurde erstellt!")
+
+def menu():
+  print("Drücke 1 um Daten einzulesen")
+  print("Drücke 2 um Daten auszulesen")
+  print("Drücke 3 um zu Datei zu speichern")
+  print("Drücke 4 um Daten zu reseten")
+
+def menu2():
+   print("Drücke 1 wenn du das Land bekommen hast")
+   print("Drücke 2 wenn du das Land nicht bekommen hast")
 CountryList = []
 class country():
     def __init__(self, country):
@@ -5,13 +46,14 @@ class country():
         self.camount = 0
         self.cget = 0
         self.gscore = 0
+        self.durschnitt = 0
         CountryList.append(self)
 
     def Durschnitt(self, score):
         self.gscore += score
-        Durschnitt = self.gscore / self.camount
+        self.durschnitt = self.gscore / self.camount
     def __str__(self):
-        return  self.country
+        return  f"Dein Land {self.country} \n Du hast dieses Land {self.cget} von {self.camount} bekommen \n dein Durschnittswert ist {self.durschnitt}"
 
 Albania = country("Albania")
 Andorra = country("Andorra")
@@ -112,6 +154,57 @@ Uruguay = country("Uruquay")
 USA = country("USA")
 Vietnam = country("Vietnam")
 
+def main():
+  while True:
+        menu()
+        Auswahl = int(input("Was möchtest du ausführen?"))
+        match Auswahl:
+           case 1:
+              land_input = input("Gebe dein Land ein: ").strip().lower()  # Benutzerinput in Kleinbuchstaben
+              found_land = None
+              for c in CountryList:
+                if c.country.lower() == land_input:
+                  found_land = c
+                  break
+
+              if not found_land:
+                print("Land nicht gefunden") 
+                main()
+              found_land.camount += 1
+              score =  int(input("Gebe deinen Score an "))
+              found_land.Durschnitt(score)
+              menu2()
+              A =  int(input("Was möchtest du ausführen?"))
+              match A:
+                 case 1:
+                    get = True
+                 case 2: 
+                    get = False
+              if get:
+                 found_land.cget += 1
+              print("Eingabe erfolgreich")
+
+           case 2:
+               land_input = input("Gebe dein Land ein: ").strip().lower()  # Benutzerinput in Kleinbuchstaben
+               found_land = None
+               for c in CountryList:
+                if c.country.lower() == land_input:
+                  found_land = c
+                  break
+
+               if not found_land:
+                print("Land nicht gefunden")  
+                main()
+                
+               print(found_land)
+
+           case 3:
+              Speichern()
+           case 4:
+              reset()
+              
+if __name__ == "__main__":   
+   main()   
 
 
 
